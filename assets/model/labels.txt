@@ -1,0 +1,18 @@
+0 Backmittel
+1 Essig/Öl
+2 Reis
+3 Bratlinge
+4 Gries / Getreide / Mehl
+5 Süßkram / Knabberzeug
+6 Hülsenfrüchte / Trockenfrüchte
+7 Tee
+8 Müsli / Crunchy
+9 Süssmittel
+10 Pudding
+11 Würze
+12 Pasta Soßen / Pesto
+13 Tomatenprodukte
+14 Nudeln
+15 Brotaufstriche
+16 Milch / Milchersatz
+17 Gemüse- und Obstkonserven
